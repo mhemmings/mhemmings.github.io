@@ -1,2 +1,3 @@
-# mhemmings.github.io
-www.mhemmings.co.uk
+This is the source for www.mhemmings.co.uk.
+
+Please feel free to fork and PR.
