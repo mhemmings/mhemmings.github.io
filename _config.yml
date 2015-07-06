@@ -1,0 +1,33 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Mark Hemmings
+tagline:             'Developer | Entrepeneur | Geek'
+url:                 https://mhemmings.co.uk
+paginate:            5
+baseurl:             ""
+permalink:           /blog/:title/
+paginate_path:       /blog/:num/
+description:         "Mark Hemmings, a developer in Newcastle, UK"
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark
+  url:               https://twitter.com/twitter
+  email:             mark@mhemmings.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
