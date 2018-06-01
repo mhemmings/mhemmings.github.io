@@ -1,8 +1,5 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Mark Hemmings
@@ -13,6 +10,7 @@ baseurl:             ""
 permalink:           /blog/:title/
 paginate_path:       /blog/:num/
 description:         "Mark Hemmings, a developer in Newcastle, UK"
+repository:          mhemmings/mhemmings.github.io
 
 # Assets
 #
@@ -31,3 +29,9 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
