@@ -7,7 +7,6 @@
             {{ site.title }}
         </h1>
       </a>
-      <p>Developer | Geek | Egg Chaser</p>
     </div>
     <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">About Me</a>
     <a class="sidebar-nav-item{% if page.url == '/blog/' or page.dir == '/blog' %} active{% endif %}" href="/blog">Blog</a>
@@ -22,9 +21,15 @@
         {% endif %}
       {% endfor %}
     </nav>
+
+    <div class="aws-badge">
+      <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2020-02-07&ci=AWS01103499"><img src="/public/img/aws-certified-logo_color-horz_360x60.png" alt="AWS Certified"></a>
+    </div>
+
     <div class="sidebar-social">
       <a href="https://twitter.com/mhemmings"><img class="sidebar-social-icon" src="/public/img/twitter.svg"></img></a>
       <a href="https://github.com/mhemmings"><img class="sidebar-social-icon" src="/public/img/octocat.svg"></img></a>
     </div>
+
   </div>
 </div>

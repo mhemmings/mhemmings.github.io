@@ -4,11 +4,14 @@ title: Home
 permalink: /
 ---
 
-I'm Mark Hemmings, a developer based in Newcastle, UK. I turn pre-workout into code.
+I’m Mark, a technology & development consultant based in the North East.
 
-My current focus is with [Fit Gurus](https://fitgurus.com), where we're building some really awesome stuff.
-Therefore I am not available to hire, but if you'd like to chat or throw ideas around about tech, rugby or M&S cookies I'll happily meet for a pint.
+I have a passion for building efficient, fast-paced businesses with high-quality software at their core. Having worked in a wide variety of organisations, from two-person startups to global enterprises of 600+ people, I have the experience to help you navigate your software engineering journey as you grow and scale.
 
-Please don't hesitate to <span class="obfuscemail">get in touch</span>.
+If you:
+- Want to streamline and automate your engineering processes
+- Are looking to build an MVP to explore product/market fit
+- Need help building a distributed development team
+- Have an AWS bill that has grown out of control
 
-Ramblings can be found on [my blog](/blog).
+Then please don't hesitate to <span class="obfuscemail">get in touch</span>

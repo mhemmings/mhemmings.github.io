@@ -3,13 +3,13 @@ permalink:           pretty
 
 # Setup
 title:               Mark Hemmings
-tagline:             'Developer | Entrepeneur | Geek'
+tagline:             'Technology & Development Consultant'
 url:                 https://mhemmings.co.uk
 paginate:            5
 baseurl:             ""
 permalink:           /blog/:title/
 paginate_path:       /blog/:num/
-description:         "Mark Hemmings, a developer in Newcastle, UK"
+description:         "Mark Hemmings, a technology & development consultant based in the North East."
 repository:          mhemmings/mhemmings.github.io
 
 # Assets
