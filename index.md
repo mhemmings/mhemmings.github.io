@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-I’m Mark, an engineering lead based in the North East.
+I’m Mark, an engineering lead based in the North East of the UK.
 
 I have a passion for building efficient, fast-paced businesses with high-quality software at their core. Having worked in a wide variety of organisations, from two-person startups to global enterprises of 600+ people, I have the experience to help you navigate your software engineering journey as you grow and scale.
 
